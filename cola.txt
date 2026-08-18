@@ -1,0 +1,11 @@
+lista.insert(pos, val) -> Adiciona o valor na posição desejada
+
+lista[::-1] -> inverte toda a lista
+
+lista[0:2] -> Apenas valores no intervalo colocado
+
+lista.sort() -> Ordena a lista
+
+lista.append() -> Adiciona um item na última posição
+
+lista.pop() -> Remove um item na última posição
